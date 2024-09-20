@@ -22,7 +22,7 @@ This project implements a basic server using Node.js that reads product data fro
 - Clone the repository.
 - Navigate to the project directory.
 - Install dependencies (if any).
-- Run the server using command: `nodemon index.js`.
+- Run the server using command: `npm start` which runs command: `nodemon index.js`. You can find it in package.json in scripts object.
 - Access the application at http://localhost:8000.
 
 ## Usage
