@@ -26,6 +26,6 @@ This project implements a basic server using Node.js that reads product data fro
 - Access the application at http://localhost:8000.
 
 ## Usage
-- Navigate to / or /overview for the product overview.
-- Access individual products via /product?id=<productId>.
-- Retrieve JSON data at /api.
+- Navigate to `/` or `/overview` for the product overview.
+- Access individual products via `/product?id=<productId>`.
+- Retrieve JSON data at `/api`.
