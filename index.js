@@ -49,7 +49,7 @@ const server = http.createServer((req, res) => {
 	else if (pathname === "/api") {
 		res.end(data);
 	}
-	
+
 	// NOT FOUND PAGE
 	else {
 		res.writeHead(404, {
