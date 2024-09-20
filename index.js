@@ -59,6 +59,6 @@ const server = http.createServer((req, res) => {
 	}
 });
 
-server.listen(8000, "nodefarmjs.netlify.app", () => {
+server.listen(8000, "nodejsfarm.netlify.app", () => {
 	console.log("Listening to requests on port 8000");
 });
